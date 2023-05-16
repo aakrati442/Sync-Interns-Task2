@@ -57,3 +57,7 @@ button:focus{
   outline: none;
   background-color: #44b927;
 }
+footer{
+    color: black  bolder 30px;
+    text-align: center;
+}
