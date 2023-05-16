@@ -21,7 +21,7 @@ const quizData = [
         correct: "b",
     },
     {
-        question: "What year was JavaScript launched?",
+        question: "?",
         a: "1996",
         b: "1995",
         c: "1994",
